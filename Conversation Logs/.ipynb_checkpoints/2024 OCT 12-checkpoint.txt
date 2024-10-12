@@ -1,0 +1,14 @@
+Nick: "We need to get rid of some columns that would be less useful"
+Jose: "That's already handled by the learning process for the AI"
+
+Jack: "For part 1 we need to do the feature analysis and testing. I wasn't sure... As for the testing I don't know how to do it!!!"
+Jose: "We were supposed to do some labs before."
+Nick: "I already did labs before."
+
+Jose: "looking back, Jack, you are using feature co-variance/correlation analysis"
+Nick: "Read the project document, I believe it says in the approach section... explain how it works and what factored into your selection."
+
+Jack: "What data should we use?"
+Jose: "5000 rows of data for training. 1000 for validation. 1000 for the final test. If we can't use 5000 rows of data due to memory or storage issues we reduce the size of the data that we use and write down why we did so in the report."
+Jack: "What about 4000?"
+Jose: "You want to use less data? Understandable, but the professor suggested 5000 as the lower number compared to numbers like 10,000 and 25,000. I think he expects us to use at least 5000 rows of data. I'm a little anxious about lowballing him as it might affect our grade."
