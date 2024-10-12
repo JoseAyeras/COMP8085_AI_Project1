@@ -12,3 +12,10 @@ Jack: "What data should we use?"
 Jose: "5000 rows of data for training. 1000 for validation. 1000 for the final test. If we can't use 5000 rows of data due to memory or storage issues we reduce the size of the data that we use and write down why we did so in the report."
 Jack: "What about 4000?"
 Jose: "You want to use less data? Understandable, but the professor suggested 5000 as the lower number compared to numbers like 10,000 and 25,000. I think he expects us to use at least 5000 rows of data. I'm a little anxious about lowballing him as it might affect our grade."
+
+????: "What data set do we use? Do we use the same data set?"
+Jose: "We use the same training data, same with the validation and testing data. Training data cannot be used for validation nor testing, and validation data cannot be used for testing.
+        Training data is used to create the AI models.
+        Validation data is used to determine if the AI model is good enough, or if it needs further iteration or more data.
+        The final test would use the testing data, and this is the metric that each of our models would have to compare to for the experiment section of our report.
+            It is also the data that we will use to determine which model will be used for the next parts of our project."
