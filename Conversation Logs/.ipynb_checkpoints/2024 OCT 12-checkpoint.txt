@@ -19,3 +19,10 @@ Jose: "We use the same training data, same with the validation and testing data.
         Validation data is used to determine if the AI model is good enough, or if it needs further iteration or more data.
         The final test would use the testing data, and this is the metric that each of our models would have to compare to for the experiment section of our report.
             It is also the data that we will use to determine which model will be used for the next parts of our project."
+
+Jose: "Any further questions"
+Both: "No."
+
+Jose: "So, should we schedule a meeting tomorrow? Or should we report on our progress through Discord or Github?"
+Nick: "I don't see why we should. If we need help or anything we can set up a time and we can meet once per week during the AI class."
+Jose: "Very well then, that would conclude our meeting."
